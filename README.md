@@ -1,4 +1,12 @@
-# 💫 About Me:
+# Hi 👋, I'm Shalini L U  
+
+*A passionate developer from India 🇮🇳*  
+
+![Profile views](https://komarev.com/ghpvc/?username=shalinilu123&color=blue&style=for-the-badge)  
+
+---
+
+
 🌱 I’m currently learning Data Structures, OOP, and Machine Learning<br>👨‍💻 I’m interested in beginner-friendly open-source projects (Java ,Python, Data Science, Web dev)<br>📚 Focused on writing clean, efficient, scalable code<br>💬 Ask me about  Java, OOP, DSA, and building real-world projects 🚀<br>📫 Reach me at shalinilu60@gmail.com
 
 
